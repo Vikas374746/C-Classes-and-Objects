@@ -33,3 +33,11 @@ int main() {
     volume1.display();
     return 0;
 }
+
+/*
+Output
+Enter the value of length: 12
+Enter the value of breadth: 21
+Enter the value of height: 21
+The volume is 5292
+*/
